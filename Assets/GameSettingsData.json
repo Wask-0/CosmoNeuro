@@ -1,0 +1,13 @@
+{
+  "LanguageCode": "en",
+  "ScreenMode": 1,
+  "ResolutionWidth": 1920,
+  "ResolutionHeight": 1080,
+  "IsVSyncEnabled": true,
+  "FrameRateLimit": 60,
+  "QualityIndex": 0,
+  "MasterVolume": 0.136716187,
+  "MusicVolume": 0.3138068,
+  "SfxVolume": 0.206740856,
+  "MouseSensitivity": 1.0
+}

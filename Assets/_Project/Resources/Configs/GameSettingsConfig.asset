@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4346b85a071347de85443ae456e65e24, type: 3}
+  m_Name: GameSettingsConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Develop.Runtime.Configs.GameSettingsConfig
+  <DefaultScreenMode>k__BackingField: 1
+  <DefaultVSync>k__BackingField: 1
+  <DefaultFrameRateLimit>k__BackingField: 60
+  <DefaultQualityIndex>k__BackingField: 1
+  <DefaultMasterVolume>k__BackingField: 1
+  <DefaultMusicVolume>k__BackingField: 1
+  <DefaultSfxVolume>k__BackingField: 1
+  <DefaultMouseSensitivity>k__BackingField: 1
+  <MinMouseSensitivity>k__BackingField: 0.1
+  <MaxMouseSensitivity>k__BackingField: 5

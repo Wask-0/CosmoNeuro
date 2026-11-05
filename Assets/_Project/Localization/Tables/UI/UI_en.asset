@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fe13f4fe15ce6df4c922a8cfdb871445, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24988606464
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66491244544
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133583331328
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163354501120
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120209556889600
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120229370781696
+    m_Localized: Are you sure you want to quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120246517096448
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120265844449280
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564754102870016
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564774487187456
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504662528
+    m_Localized: Rebind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564874340982784
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564894129709056
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564908897853440
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564921224912896
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564934436970496
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564951734280192
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575683024642048
+    m_Localized: Display Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575708496650240
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575727232606208
+    m_Localized: Graphics Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575749848293376
+    m_Localized: Vertical Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575776037527552
+    m_Localized: Frame Rate Limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564964203945984
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564978875621376
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564994944000000
+    m_Localized: Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504666624
+    m_Localized: Mouse Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504658432
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504670720
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504674816
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504678912
+    m_Localized: Navigation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504683008
+    m_Localized: Choose the interface language.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504687104
+    m_Localized: Changes take effect when you select Apply.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504691200
+    m_Localized: Adjust music and effects volume.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504695296
+    m_Localized: Select an action to change its binding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504699392
+    m_Localized: Borderless Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504703488
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504707584
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504711680
+    m_Localized: Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504715776
+    m_Localized: PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595405669654528
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595543473512448
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595573953519616
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

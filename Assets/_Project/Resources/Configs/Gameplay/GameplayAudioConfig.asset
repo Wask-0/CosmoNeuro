@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d6d9fa422be6174d833fc969b305829, type: 3}
+  m_Name: GameplayAudioConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Develop.Runtime.Configs.Gameplay.GameplayAudioConfig
+  Ambient: {fileID: 8300000, guid: b56796bdd3448334faef723907ed7b2b, type: 3}
+  Music: {fileID: 8300000, guid: da87cb5a72e7c764da29d91936805174, type: 3}
+  AmbientVolume: 0.55
+  MusicVolume: 0.3
+  Step: {fileID: 8300000, guid: 97ef1485f2f385c47b721a53937a60dc, type: 3}
+  StepInterval: 0.62
+  JumpBreath: {fileID: 8300000, guid: 45d4d8fea805587479f192fb5da30d9f, type: 3}
+  Exhale: {fileID: 8300000, guid: 3648c994956a0164b8bbf8d08bbc2e7d, type: 3}
+  ClimbSighs:
+  - {fileID: 8300000, guid: 5d05deea4fde32f4ba10cf454aad1a2f, type: 3}
+  - {fileID: 8300000, guid: 361c0154c243db64b9f1d32b41bb4bf1, type: 3}
+  HardLanding: {fileID: 8300000, guid: 448f863459ed5154d8da65b95f2b4aac, type: 3}
+  BagThrow: {fileID: 8300000, guid: 55eb6e13df389e14d8ded41a58e75512, type: 3}
+  BagLand: {fileID: 8300000, guid: 69169a8cf3fe88640b207d30177a3281, type: 3}
+  Pickup: {fileID: 8300000, guid: 7bcb07f7fb9f1534cb3e4781191d641d, type: 3}
+  Tent: {fileID: 8300000, guid: 9bfef3359e712864b9541c6ec3eed308, type: 3}
+  DeviceLoop: {fileID: 8300000, guid: 068b945541da148469ff93985220d8f7, type: 3}
+  Warning: {fileID: 8300000, guid: 8b390587acd8b4842825ef2604517022, type: 3}
+  Victory: {fileID: 8300000, guid: 6020a5313ecb0bc40b4e76832708e7e7, type: 3}

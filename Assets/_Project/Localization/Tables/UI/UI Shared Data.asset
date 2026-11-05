@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: fe13f4fe15ce6df4c922a8cfdb871445
+  m_Entries:
+  - m_Id: 24988606464
+    m_Key: MainScene.NewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66491244544
+    m_Key: MainScene.Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133583331328
+    m_Key: MainScene.Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163354501120
+    m_Key: MainScene.Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120209556889600
+    m_Key: Exit.Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120229370781696
+    m_Key: Exit.Message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120246517096448
+    m_Key: Common.Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120265844449280
+    m_Key: Common.Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564754102870016
+    m_Key: Common.Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564774487187456
+    m_Key: Common.Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504662528
+    m_Key: Common.Rebind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564874340982784
+    m_Key: Settings.Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564894129709056
+    m_Key: Settings.Tab.General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564908897853440
+    m_Key: Settings.Tab.Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564921224912896
+    m_Key: Settings.Tab.Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564934436970496
+    m_Key: Settings.Tab.Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564951734280192
+    m_Key: Settings.Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575683024642048
+    m_Key: Settings.ScreenMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575708496650240
+    m_Key: Settings.Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575727232606208
+    m_Key: Settings.Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575749848293376
+    m_Key: Settings.VSync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575776037527552
+    m_Key: Settings.FrameRate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564964203945984
+    m_Key: Settings.MasterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564978875621376
+    m_Key: Settings.MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564994944000000
+    m_Key: Settings.SfxVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504666624
+    m_Key: Settings.MouseSensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504658432
+    m_Key: Settings.Controls.Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504670720
+    m_Key: Settings.Controls.Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504674816
+    m_Key: Settings.Controls.Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504678912
+    m_Key: Settings.Controls.Navigate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504683008
+    m_Key: Settings.Hint.General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504687104
+    m_Key: Settings.Hint.Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504691200
+    m_Key: Settings.Hint.Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504695296
+    m_Key: Settings.Hint.Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504699392
+    m_Key: Settings.ScreenMode.Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504703488
+    m_Key: Settings.ScreenMode.Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504707584
+    m_Key: Settings.FrameRate.Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504711680
+    m_Key: Settings.Quality.Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 575799504715776
+    m_Key: Settings.Quality.PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595405669654528
+    m_Key: Pause.MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595543473512448
+    m_Key: Pause.Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595573953519616
+    m_Key: Pause.Resume
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4063615006292836424
+  references:
+    version: 2
+    RefIds:
+    - rid: 4063615006292836424
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1792066926948
